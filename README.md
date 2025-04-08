@@ -22,7 +22,7 @@
 **Languages**: Python, Java (Basics), SQL (Basics)  
 **Web & App Development**: HTML (Basics), Android Studio (Basics), Streamlit, Flask  
 **Cloud & Security**: AWS (Basics), EC2 Hardening, Burp Suite (Basics)  
-**Data Tools**: Tableau, Game Dev (Basics), Data Visualization  
+**Data Tools**: Tableau, Data Visualization  
 **Soft Skills**: Communication, Teamwork, Problem-Solving, Adaptability, Time Management  
 
 ---
@@ -51,7 +51,7 @@
 ---
 
 ## 🌍 Languages  
-English | Kannada | Tamil | Telugu | Hindi  
+English | Kannada | Telugu | Hindi  
 
 ---
 
